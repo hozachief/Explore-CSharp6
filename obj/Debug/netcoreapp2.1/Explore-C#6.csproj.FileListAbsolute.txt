@@ -1,0 +1,11 @@
+/Users/Jose1/VisualStudioCodeProjects/Explore-C#6/bin/Debug/netcoreapp2.1/Explore-C#6.deps.json
+/Users/Jose1/VisualStudioCodeProjects/Explore-C#6/bin/Debug/netcoreapp2.1/Explore-C#6.runtimeconfig.json
+/Users/Jose1/VisualStudioCodeProjects/Explore-C#6/bin/Debug/netcoreapp2.1/Explore-C#6.runtimeconfig.dev.json
+/Users/Jose1/VisualStudioCodeProjects/Explore-C#6/bin/Debug/netcoreapp2.1/Explore-C#6.dll
+/Users/Jose1/VisualStudioCodeProjects/Explore-C#6/bin/Debug/netcoreapp2.1/Explore-C#6.pdb
+/Users/Jose1/VisualStudioCodeProjects/Explore-C#6/obj/Debug/netcoreapp2.1/Explore-C#6.csprojAssemblyReference.cache
+/Users/Jose1/VisualStudioCodeProjects/Explore-C#6/obj/Debug/netcoreapp2.1/Explore-C#6.csproj.CoreCompileInputs.cache
+/Users/Jose1/VisualStudioCodeProjects/Explore-C#6/obj/Debug/netcoreapp2.1/Explore-C#6.AssemblyInfoInputs.cache
+/Users/Jose1/VisualStudioCodeProjects/Explore-C#6/obj/Debug/netcoreapp2.1/Explore-C#6.AssemblyInfo.cs
+/Users/Jose1/VisualStudioCodeProjects/Explore-C#6/obj/Debug/netcoreapp2.1/Explore-C#6.dll
+/Users/Jose1/VisualStudioCodeProjects/Explore-C#6/obj/Debug/netcoreapp2.1/Explore-C#6.pdb
