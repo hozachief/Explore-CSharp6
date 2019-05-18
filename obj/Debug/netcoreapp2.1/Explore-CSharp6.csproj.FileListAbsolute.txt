@@ -1,0 +1,11 @@
+/Users/Jose1/VisualStudioProjects/Explore-CSharp6/bin/Debug/netcoreapp2.1/Explore-CSharp6.deps.json
+/Users/Jose1/VisualStudioProjects/Explore-CSharp6/bin/Debug/netcoreapp2.1/Explore-CSharp6.runtimeconfig.json
+/Users/Jose1/VisualStudioProjects/Explore-CSharp6/bin/Debug/netcoreapp2.1/Explore-CSharp6.runtimeconfig.dev.json
+/Users/Jose1/VisualStudioProjects/Explore-CSharp6/bin/Debug/netcoreapp2.1/Explore-CSharp6.dll
+/Users/Jose1/VisualStudioProjects/Explore-CSharp6/bin/Debug/netcoreapp2.1/Explore-CSharp6.pdb
+/Users/Jose1/VisualStudioProjects/Explore-CSharp6/obj/Debug/netcoreapp2.1/Explore-CSharp6.csprojAssemblyReference.cache
+/Users/Jose1/VisualStudioProjects/Explore-CSharp6/obj/Debug/netcoreapp2.1/Explore-CSharp6.csproj.CoreCompileInputs.cache
+/Users/Jose1/VisualStudioProjects/Explore-CSharp6/obj/Debug/netcoreapp2.1/Explore-CSharp6.AssemblyInfoInputs.cache
+/Users/Jose1/VisualStudioProjects/Explore-CSharp6/obj/Debug/netcoreapp2.1/Explore-CSharp6.AssemblyInfo.cs
+/Users/Jose1/VisualStudioProjects/Explore-CSharp6/obj/Debug/netcoreapp2.1/Explore-CSharp6.dll
+/Users/Jose1/VisualStudioProjects/Explore-CSharp6/obj/Debug/netcoreapp2.1/Explore-CSharp6.pdb

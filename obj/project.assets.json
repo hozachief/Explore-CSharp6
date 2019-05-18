@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/Jose1/VisualStudioProjects/Explore-C#6/Explore-CSharp6.csproj",
+      "projectUniqueName": "/Users/Jose1/VisualStudioProjects/Explore-CSharp6/Explore-CSharp6.csproj",
       "projectName": "Explore-CSharp6",
-      "projectPath": "/Users/Jose1/VisualStudioProjects/Explore-C#6/Explore-CSharp6.csproj",
+      "projectPath": "/Users/Jose1/VisualStudioProjects/Explore-CSharp6/Explore-CSharp6.csproj",
       "packagesPath": "/Users/Jose1/.nuget/packages/",
-      "outputPath": "/Users/Jose1/VisualStudioProjects/Explore-C#6/obj/",
+      "outputPath": "/Users/Jose1/VisualStudioProjects/Explore-CSharp6/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

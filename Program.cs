@@ -19,6 +19,7 @@
 using System;
 using static System.Console;
 using System.Linq;
+using System.Collections.Generic;
 
 public class Person
 {
@@ -156,6 +157,35 @@ public class Program
         {
         }
         WriteLine("Exception must have been handled");
+
+        /** 
+         * Using nameof
+         * nameof operator returns the name of any variable, a type, or a type's member.
+         * The output matches the name of the variable or type. Even when you
+         * provide the fully qualified type name (i.e. System.String) the nameof
+         * operator returns the unqualified name (i.e. String). This feature is
+         * most useful when you need to convert a parameter or property name to
+         * a string.       
+        */
+        WriteLine(nameof(System.String));
+        int j = 5;
+        WriteLine(nameof(j));
+        List<string> names = new List<string>();
+        WriteLine(nameof(names));
+
+        /** 
+         * Object initializer syntax now supports initializing indexers as well as
+         * properties and fields. This addition makes it easier to initialize
+         * dictionaries and other types.
+        */
+        var messages = new Dictionary<int, string>
+        {
+            [404] = "Page not Found",
+            [302] = "Page moved, but left a forwarding address.",
+            [500] = "The web server can't come out to play today."
+        };
+
+        WriteLine(messages[302]);
     }
 
     private static bool LogException(Exception e)
@@ -163,8 +193,9 @@ public class Program
         WriteLine($"\tIn the log routine. Caught {e.GetType()}");
         WriteLine($"\tMessage: {e.Message}");
         // Returns false, which indicates that the exception cannot be handled.
-        return false;
+        //return false;
         // Return true...the exception is caught and the program runs to completion.
-        //return true;
+        return true;
     }
 }
+
